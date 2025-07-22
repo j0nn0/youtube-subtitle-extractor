@@ -1,0 +1,30 @@
+
+# How to Add a Custom Icon to Your YouTube Subtitle Extractor
+
+## Option 1: Use the provided SVG icon
+1. I've created an 'icon.svg' file with a professional YouTube-style icon
+2. Convert it to ICO format using an online converter like:
+   - convertio.co
+   - cloudconvert.com
+   - Any "SVG to ICO" converter
+
+## Option 2: Create your own icon
+Create a 32x32 pixel ICO file with your preferred design and name it 'icon.ico'
+
+## Option 3: Use any existing ICO file
+Simply rename your ICO file to 'icon.ico' and place it in the same folder as your Python files
+
+## What the icon should look like:
+- Size: 32x32 pixels (standard Windows icon size)
+- Format: .ICO (Windows) or .PNG (cross-platform)
+- Design: Something related to YouTube/video/subtitles
+- Colors: Professional looking (red, white, blue themes work well)
+
+## Icon Design Recommendations:
+- Red background (YouTube brand color: #FF0000)
+- White play button triangle
+- Small subtitle lines at the bottom
+- Simple, clean design that's visible at small sizes
+
+Once you have your 'icon.ico' file in the same folder as your Python files, 
+the application will automatically use it as the window icon!

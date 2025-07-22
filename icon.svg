@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="256" height="256" rx="32" fill="#1a1a1a"/>
+  
+  <!-- YouTube-style play button -->
+  <circle cx="128" cy="128" r="80" fill="#ff0000"/>
+  <polygon points="108,98 108,158 168,128" fill="white"/>
+  
+  <!-- Subtitle lines at bottom -->
+  <rect x="40" y="180" width="176" height="8" rx="4" fill="#ffffff" opacity="0.9"/>
+  <rect x="60" y="195" width="136" height="8" rx="4" fill="#ffffff" opacity="0.7"/>
+  <rect x="80" y="210" width="96" height="8" rx="4" fill="#ffffff" opacity="0.5"/>
+  
+  <!-- Download arrow overlay -->
+  <g transform="translate(180, 60)">
+    <circle cx="0" cy="0" r="24" fill="#00aa00" opacity="0.9"/>
+    <path d="M-8,-6 L0,6 L8,-6 M0,-12 L0,6" stroke="white" stroke-width="3" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>
