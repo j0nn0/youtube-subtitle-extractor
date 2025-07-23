@@ -1,6 +1,7 @@
 # YouTube Subtitle Extractor
 
-A user-friendly desktop application for extracting and saving subtitles from YouTube videos.
+A user-friendly desktop application for extracting and saving subtitles from YouTube videos. Simply paste the YouTube URL into the window and click "Extract subtitles”. Depending on the length of the video it may take a few minutes. yt-dlp does the job but it needs to run in a CLI with switches, so that makes it a bit harder to use. This is essnetially a front-end to yt-dlp, with a text-parsing module added.
+This project was developed for my use as I frequently need quick transcriptions and don’t want the hassle of downloading a video and uploading it to Otter or Turboscribe.
 
 ## Features
 
@@ -15,7 +16,8 @@ A user-friendly desktop application for extracting and saving subtitles from You
 
 ## Screenshots
 
-*(Add screenshots of your application here when you upload to GitHub)*
+<img width="617" height="819" alt="screen1" src="https://github.com/user-attachments/assets/93a97c51-86f4-4ff0-bb96-19c0603acc4f" />
+
 
 ## Installation
 
