@@ -22,12 +22,12 @@ This project was developed for my use as I frequently need quick transcriptions 
 ## Installation
 
 ### Option 1: Windows Installer (Recommended for Windows users)
-1. Download the latest `YouTube_Subtitle_Extractor_Setup.exe` from the [Releases](https://github.com/your-username/youtube-subtitle-extractor/releases) page
+1. Download the latest `YouTube_Subtitle_Extractor_Setup.exe` from the [Main](https://github.com/j0nn0/youtube-subtitle-extractor/) page
 2. Run the installer - it will install to Program Files and create Start Menu shortcuts
 3. Launch from Start Menu or Desktop shortcut
 
 ### Option 2: Standalone Executable (Windows)
-1. Download `YouTube_Subtitle_Extractor.exe` from the [Releases](https://github.com/your-username/youtube-subtitle-extractor/releases) page
+1. Download `YouTube_Subtitle_Extractor.exe` from the [Releases](https://github.com/j0nn0/youtube-subtitle-extractor/releases/) page
 2. Run directly - no installation required
 
 ### Option 3: Run from Source (All platforms)
